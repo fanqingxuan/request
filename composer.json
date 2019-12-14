@@ -13,5 +13,6 @@
         "psr-4": {
           "Json\\": "src/Json"
         }
-      }
+      },
+      "license": "MIT"
 }
