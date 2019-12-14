@@ -14,5 +14,6 @@
           "Json\\": "src/Json"
         }
       },
-      "license": "MIT"
+      "license": "MIT",
+      "minimum-stability": "dev"
 }
